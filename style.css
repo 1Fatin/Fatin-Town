@@ -20,7 +20,7 @@ h1, h2, h3 {
 } 
 
 #header {
-	background-color:  #FF6347;
+	background-color:#FF6347;
 	color: TOMATO;
 	text-align: center;
 	padding: 10px;
@@ -52,7 +52,7 @@ h1, h2, h3 {
 #footer {
 	clear: both;
 	padding: 10px;
-	background-color: #DB7093;
+	background-color:#DB7093;
 	color: PALEVIOLETRED;
 	text-align: right;
 }
