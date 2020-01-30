@@ -20,8 +20,8 @@ h1, h2, h3 {
 } 
 
 #header {
-	background-color: #66ccff;
-	color: white;
+	background-color:  #FF6347;
+	color: TOMATO;
 	text-align: center;
 	padding: 10px;
 } 
@@ -52,7 +52,7 @@ h1, h2, h3 {
 #footer {
 	clear: both;
 	padding: 10px;
-	background-color: #999999;
-	color: white;
+	background-color: #DB7093;
+	color: PALEVIOLETRED;
 	text-align: right;
 }
