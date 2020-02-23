@@ -32,7 +32,7 @@ h1, h2, h3 {
 }
 
 #nav {
-	width: 80px
+	width: 100px
 	float: left;
 }	
 
@@ -46,7 +46,7 @@ h1, h2, h3 {
 }
 
 #main {
-	width: 800px;
+	width: 600px;
 	float: right;
 }
 
